@@ -61,7 +61,7 @@ Skilled in leading teams, mentoring engineers, and consulting on AI transformati
 
 - 🚗 [Autonomous Vehicle & Road Safety Analysis](https://neetr.github.io/autonomous-driving/) – developing a real-time vehicle detection AI for Intelligent Transport Systems (ITS) and conducting a data-driven analysis of autopilot usage and its effect on road safety  
 - 🏛️ [AI for Historical Structure Classification & Tourism Recommendation](https://neetr.github.io/tourism/) – Image classification for heritage structures (TensorFlow) + exploratory analytics and recommendation engine for tourism. 
-- 📊 [Project Name 3](#) – Data analytics or dashboard project  
+- 🍽️  [Restaurants Sales Forecasting](#) – AI-Powered Demand Prediction  
 
 ---
 
